@@ -64,6 +64,8 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<!-- The jar name -->
+		<finalName>github_to_fargate_using_cicd_pipeline</finalName>
 	</build>
 
 </project>
